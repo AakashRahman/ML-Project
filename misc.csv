@@ -1,0 +1,577 @@
+years,abbreviation,fumbles,games_played,losses,name,first_downs_from_penalties,penalties,points_difference,points_for,post_season_result,simple_rating_system,strength_of_schedule,win_percentage,wins,yards_from_penalties
+2002,KAN,2,16,8,Kansas City Chiefs,24,75,68,467,,6.1,1.9,0.5,8,700
+2002,RAI,9,16,5,Oakland Raiders,27,129,146,450,Lost Conference Championship,10.6,1.5,0.688,11,1094
+2002,NOR,15,16,7,New Orleans Saints,31,119,44,432,,2.4,-0.3,0.563,9,911
+2002,PHI,13,16,4,Philadelphia Eagles,23,111,174,415,Lost Conference Championship,8.3,-2.6,0.75,12,897
+2002,ATL,15,16,6,Atlanta Falcons,30,105,88,402,Lost Divisional,5.1,-0.4,0.594,9,931
+2002,GNB,12,16,4,Green Bay Packers,27,108,70,398,Lost WC,3.6,-0.8,0.75,12,913
+2002,DEN,7,16,7,Denver Broncos,33,104,48,392,,4.9,1.9,0.563,9,877
+2002,PIT,14,16,5,Pittsburgh Steelers,24,90,45,390,Lost Divisional,2.7,-0.1,0.656,10,712
+2002,MIN,18,16,10,Minnesota Vikings,20,137,-52,390,,-3.0,0.2,0.375,6,1139
+2002,NWE,10,16,7,New England Patriots,21,108,35,381,,4.0,1.8,0.563,9,895
+2002,BUF,16,16,8,Buffalo Bills,47,112,-18,379,,-0.3,0.9,0.5,8,1031
+2002,MIA,15,16,7,Miami Dolphins,24,103,77,378,,6.1,1.2,0.563,9,859
+2002,SFO,7,16,6,San Francisco 49ers,19,87,16,367,Lost Divisional,0.6,-0.4,0.625,10,725
+2002,OTI,10,16,5,Tennessee Titans,18,112,43,367,Lost Conference Championship,1.8,-0.9,0.688,11,891
+2002,NYJ,9,16,7,New York Jets,24,79,23,359,Lost Divisional,3.2,1.7,0.563,9,685
+2002,SEA,12,16,9,Seattle Seahawks,35,100,-14,355,,-1.3,-0.4,0.438,7,792
+2002,CLT,13,16,6,Indianapolis Colts,18,91,36,349,Lost WC,1.2,-1.1,0.625,10,730
+2002,TAM,11,16,4,Tampa Bay Buccaneers,25,103,150,346,,8.8,-0.6,0.75,12,789
+2002,CLE,9,16,7,Cleveland Browns,31,107,24,344,Lost WC,1.2,-0.3,0.563,9,845
+2002,SDG,8,16,8,San Diego Chargers,30,100,-34,333,,-0.7,1.4,0.5,8,805
+2002,JAX,6,16,10,Jacksonville Jaguars,14,89,13,328,,-0.2,-1.0,0.375,6,685
+2002,NYG,13,16,6,New York Giants,33,113,41,320,Lost WC,0.8,-1.7,0.625,10,955
+2002,RAV,18,16,9,Baltimore Ravens,26,101,-38,316,,-2.1,0.3,0.438,7,846
+2002,RAM,18,16,9,St. Louis Rams,20,120,-53,316,,-3.3,0.0,0.438,7,919
+2002,WAS,20,16,9,Washington Redskins,31,116,-58,307,,-4.5,-0.8,0.438,7,968
+2002,DET,6,16,13,Detroit Lions,23,104,-145,306,,-9.2,-0.1,0.188,3,916
+2002,CHI,17,16,12,Chicago Bears,25,95,-98,281,,-5.3,0.9,0.25,4,864
+2002,CIN,13,16,14,Cincinnati Bengals,24,99,-177,279,,-10.5,0.6,0.125,2,884
+2002,CRD,13,16,11,Arizona Cardinals,32,76,-155,262,,-9.9,-0.2,0.313,5,617
+2002,CAR,18,16,9,Carolina Panthers,23,94,-44,258,,-3.3,-0.5,0.438,7,785
+2002,DAL,18,16,11,Dallas Cowboys,21,105,-112,217,,-8.5,-1.5,0.313,5,974
+2002,HTX,14,16,12,Houston Texans,30,136,-143,213,,-9.4,-0.5,0.25,4,1011
+2003,KAN,6,16,3,Kansas City Chiefs,27,79,152,484,Lost Divisional,8.3,-1.2,0.813,13,698
+2003,RAM,16,16,4,St. Louis Rams,27,92,119,447,Lost Divisional,5.9,-1.6,0.75,12,667
+2003,CLT,10,16,4,Indianapolis Colts,32,92,111,447,Lost Conference Championship,7.0,0.0,0.75,12,662
+2003,GNB,11,16,6,Green Bay Packers,22,88,135,442,Lost Divisional,8.1,-0.3,0.625,10,699
+2003,OTI,12,16,4,Tennessee Titans,15,110,111,435,Lost Divisional,6.5,-0.5,0.75,12,887
+2003,MIN,11,16,7,Minnesota Vikings,18,127,63,416,,2.9,-1.0,0.563,9,1029
+2003,SEA,13,16,6,Seattle Seahawks,27,91,77,404,Lost WC,4.1,-0.7,0.625,10,777
+2003,RAV,19,16,6,Baltimore Ravens,23,126,110,391,Lost WC,6.3,-0.6,0.625,10,970
+2003,SFO,10,16,9,San Francisco 49ers,23,104,47,384,,3.1,0.1,0.438,7,807
+2003,DEN,6,16,6,Denver Broncos,39,107,80,381,Lost WC,5.5,0.5,0.625,10,922
+2003,PHI,11,16,4,Philadelphia Eagles,41,96,87,374,Lost Conference Championship,4.4,-1.0,0.75,12,817
+2003,NWE,11,16,2,New England Patriots,26,111,110,348,Won Super Bowl,6.9,0.1,0.875,14,998
+2003,CIN,7,16,8,Cincinnati Bengals,31,107,-38,346,,-2.4,0.0,0.5,8,846
+2003,NOR,20,16,8,New Orleans Saints,25,103,14,340,,-0.3,-1.1,0.5,8,878
+2003,CAR,15,16,5,Carolina Panthers,24,116,21,325,Lost Super Bowl,-0.9,-2.2,0.688,11,966
+2003,SDG,12,16,12,San Diego Chargers,27,126,-128,313,,-6.8,1.2,0.25,4,1016
+2003,MIA,15,16,6,Miami Dolphins,22,103,50,311,,3.4,0.3,0.625,10,913
+2003,TAM,9,16,9,Tampa Bay Buccaneers,31,117,37,301,,1.6,-0.7,0.438,7,1104
+2003,PIT,11,16,10,Pittsburgh Steelers,24,111,-27,300,,-1.1,0.6,0.375,6,1005
+2003,ATL,10,16,11,Atlanta Falcons,26,90,-123,299,,-7.4,0.3,0.313,5,790
+2003,DAL,8,16,6,Dallas Cowboys,22,98,29,289,Lost WC,-0.5,-2.3,0.625,10,837
+2003,WAS,12,16,11,Washington Redskins,21,124,-85,287,,-5.7,-0.4,0.313,5,1038
+2003,NYJ,6,16,10,New York Jets,15,69,-16,283,,-0.6,0.4,0.375,6,550
+2003,CHI,9,16,9,Chicago Bears,17,92,-63,283,,-3.5,0.4,0.438,7,806
+2003,JAX,14,16,11,Jacksonville Jaguars,24,108,-55,276,,-2.4,1.0,0.313,5,895
+2003,RAI,12,16,12,Oakland Raiders,20,134,-109,270,,-5.5,1.3,0.25,4,1120
+2003,DET,4,16,11,Detroit Lions,29,107,-109,270,,-5.8,1.0,0.313,5,859
+2003,HTX,9,16,11,Houston Texans,24,121,-125,255,,-6.0,1.9,0.313,5,961
+2003,CLE,15,16,11,Cleveland Browns,32,98,-68,254,,-2.9,1.3,0.313,5,767
+2003,NYG,18,16,12,New York Giants,26,127,-144,243,,-8.6,0.4,0.25,4,1090
+2003,BUF,17,16,10,Buffalo Bills,22,106,-36,243,,-1.0,1.3,0.375,6,891
+2003,CRD,14,16,12,Arizona Cardinals,29,98,-227,225,,-12.6,1.6,0.25,4,761
+2004,CLT,7,16,4,Indianapolis Colts,47,106,171,522,Lost Divisional,11.4,0.7,0.75,12,801
+2004,KAN,10,16,9,Kansas City Chiefs,32,117,48,483,,5.3,2.3,0.438,7,963
+2004,SDG,10,16,4,San Diego Chargers,37,108,133,446,Lost WC,9.1,0.8,0.75,12,875
+2004,NWE,13,16,2,New England Patriots,31,101,177,437,Won Super Bowl,12.8,1.8,0.875,14,822
+2004,GNB,10,16,6,Green Bay Packers,28,116,44,424,Lost WC,0.3,-2.4,0.625,10,950
+2004,MIN,9,16,8,Minnesota Vikings,28,117,10,405,Lost Divisional,-1.7,-2.3,0.5,8,884
+2004,BUF,12,16,7,Buffalo Bills,20,121,111,395,,8.1,1.1,0.563,9,1047
+2004,PHI,11,16,3,Philadelphia Eagles,26,124,126,386,Lost Super Bowl,5.6,-2.3,0.813,13,952
+2004,DEN,9,16,6,Denver Broncos,40,93,77,381,Lost WC,5.9,1.0,0.625,10,880
+2004,CIN,10,16,8,Cincinnati Bengals,21,103,2,374,,2.7,2.5,0.5,8,810
+2004,PIT,8,16,1,Pittsburgh Steelers,28,99,121,372,Lost Conference Championship,9.0,1.4,0.938,15,835
+2004,SEA,9,16,7,Seattle Seahawks,21,79,-2,371,Lost WC,-2.9,-2.8,0.563,9,669
+2004,CAR,11,16,9,Carolina Panthers,31,123,16,355,,-0.7,-1.7,0.438,7,1020
+2004,NOR,10,16,8,New Orleans Saints,32,129,-57,348,,-5.6,-2.0,0.5,8,1141
+2004,OTI,12,16,11,Tennessee Titans,23,110,-95,344,,-4.4,1.5,0.313,5,923
+2004,ATL,14,16,5,Atlanta Falcons,31,109,3,340,Lost Conference Championship,-2.2,-2.4,0.688,11,905
+2004,NYJ,5,16,6,New York Jets,15,91,72,333,Lost Divisional,6.6,2.1,0.625,10,693
+2004,RAI,13,16,11,Oakland Raiders,24,134,-122,320,,-4.3,3.4,0.313,5,1013
+2004,RAM,17,16,8,St. Louis Rams,22,127,-73,319,Lost Divisional,-6.0,-1.4,0.5,8,993
+2004,RAV,12,16,7,Baltimore Ravens,22,94,49,317,,6.1,3.1,0.563,9,894
+2004,HTX,11,16,9,Houston Texans,23,106,-30,309,,-0.6,1.2,0.438,7,928
+2004,NYG,11,16,10,New York Giants,33,118,-44,303,,-3.9,-1.2,0.375,6,977
+2004,TAM,18,16,11,Tampa Bay Buccaneers,22,117,-3,301,,-2.7,-2.5,0.313,5,916
+2004,DET,7,16,10,Detroit Lions,29,121,-54,296,,-5.2,-1.8,0.375,6,1000
+2004,DAL,14,16,10,Dallas Cowboys,24,105,-112,293,,-7.8,-0.8,0.375,6,867
+2004,CRD,11,16,10,Arizona Cardinals,42,124,-38,284,,-4.9,-2.5,0.375,6,948
+2004,CLE,19,16,12,Cleveland Browns,26,115,-114,276,,-3.4,3.7,0.25,4,854
+2004,MIA,16,16,12,Miami Dolphins,31,112,-79,275,,-2.2,2.7,0.25,4,852
+2004,JAX,11,16,7,Jacksonville Jaguars,30,109,-19,261,,0.8,1.9,0.563,9,940
+2004,SFO,19,16,14,San Francisco 49ers,25,103,-193,259,,-13.6,-1.6,0.125,2,859
+2004,WAS,10,16,10,Washington Redskins,22,115,-25,240,,-3.4,-1.8,0.375,6,1047
+2004,CHI,21,16,11,Chicago Bears,25,124,-100,231,,-8.2,-2.0,0.313,5,956
+2005,SEA,7,16,3,Seattle Seahawks,27,94,181,452,Lost Super Bowl,9.1,-2.2,0.813,13,846
+2005,CLT,8,16,2,Indianapolis Colts,30,94,192,439,Lost Divisional,10.8,-1.2,0.875,14,690
+2005,NYG,8,16,5,New York Giants,34,143,108,422,Lost WC,7.5,0.7,0.688,11,1115
+2005,CIN,6,16,5,Cincinnati Bengals,30,110,71,421,Lost WC,3.8,-0.6,0.688,11,920
+2005,SDG,12,16,7,San Diego Chargers,30,110,106,418,,9.9,3.3,0.563,9,890
+2005,KAN,13,16,6,Kansas City Chiefs,27,115,78,403,,7.0,2.1,0.625,10,890
+2005,DEN,9,16,3,Denver Broncos,23,97,137,395,Lost Conference Championship,10.8,2.2,0.813,13,756
+2005,CAR,10,16,5,Carolina Panthers,39,91,132,391,Lost Conference Championship,5.1,-3.2,0.688,11,732
+2005,PIT,9,16,5,Pittsburgh Steelers,33,99,131,389,Won Super Bowl,7.8,-0.4,0.688,11,876
+2005,NWE,9,16,6,New England Patriots,29,110,41,379,Lost Divisional,3.1,0.6,0.625,10,921
+2005,RAM,13,16,10,St. Louis Rams,23,131,-66,363,,-5.1,-1.0,0.375,6,941
+2005,JAX,11,16,4,Jacksonville Jaguars,34,121,92,361,Lost WC,4.8,-1.0,0.75,12,1006
+2005,WAS,16,16,6,Washington Redskins,21,108,66,359,Lost Divisional,6.0,1.9,0.625,10,925
+2005,ATL,16,16,8,Atlanta Falcons,25,114,10,351,,-1.2,-1.9,0.5,8,1043
+2005,DAL,14,16,7,Dallas Cowboys,44,99,17,325,,3.2,2.1,0.563,9,739
+2005,MIA,14,16,7,Miami Dolphins,22,132,1,318,,-0.8,-0.8,0.563,9,1055
+2005,CRD,16,16,11,Arizona Cardinals,22,145,-76,311,,-5.0,-0.2,0.313,5,1184
+2005,PHI,14,16,10,Philadelphia Eagles,27,134,-78,310,,-2.3,2.6,0.375,6,1130
+2005,MIN,14,16,7,Minnesota Vikings,33,128,-38,306,,-3.5,-1.1,0.563,9,1013
+2005,TAM,9,16,5,Tampa Bay Buccaneers,24,131,26,300,Lost WC,-1.0,-2.6,0.688,11,1085
+2005,OTI,12,16,12,Tennessee Titans,16,125,-122,299,,-7.6,0.1,0.25,4,1002
+2005,GNB,15,16,12,Green Bay Packers,36,119,-46,298,,-3.7,-0.8,0.25,4,918
+2005,RAI,9,16,12,Oakland Raiders,25,147,-93,290,,-2.8,3.0,0.25,4,1132
+2005,BUF,10,16,11,Buffalo Bills,34,120,-96,271,,-5.8,0.2,0.313,5,897
+2005,RAV,15,16,10,Baltimore Ravens,26,139,-34,265,,-1.8,0.3,0.375,6,1067
+2005,HTX,11,16,14,Houston Texans,12,106,-171,260,,-10.0,0.7,0.125,2,854
+2005,CHI,13,16,5,Chicago Bears,23,105,58,260,Lost Divisional,1.4,-2.2,0.688,11,850
+2005,DET,12,16,11,Detroit Lions,38,115,-91,254,,-6.7,-1.0,0.313,5,838
+2005,NYJ,19,16,12,New York Jets,31,98,-115,240,,-6.4,0.8,0.25,4,801
+2005,SFO,14,16,12,San Francisco 49ers,25,106,-189,239,,-11.1,0.7,0.25,4,780
+2005,NOR,19,16,13,New Orleans Saints,41,135,-163,235,,-11.1,-0.9,0.188,3,1130
+2005,CLE,13,16,10,Cleveland Browns,16,99,-69,232,,-4.2,0.1,0.375,6,770
+2006,SDG,6,16,2,San Diego Chargers,15,90,189,492,Lost Divisional,10.2,-1.6,0.875,14,791
+2006,CHI,14,16,3,Chicago Bears,36,112,172,427,Lost Super Bowl,7.9,-2.9,0.813,13,923
+2006,CLT,10,16,4,Indianapolis Colts,23,86,67,427,Won Super Bowl,5.9,1.7,0.75,12,718
+2006,DAL,9,16,7,Dallas Cowboys,32,100,75,425,Lost WC,3.7,-1.0,0.563,9,939
+2006,NOR,10,16,6,New Orleans Saints,24,79,91,413,Lost Conference Championship,4.0,-1.6,0.625,10,597
+2006,PHI,15,16,6,Philadelphia Eagles,17,112,70,398,Lost Divisional,3.4,-1.0,0.625,10,983
+2006,NWE,15,16,4,New England Patriots,28,98,148,385,Lost Conference Championship,10.2,1.0,0.75,12,940
+2006,CIN,11,16,8,Cincinnati Bengals,25,92,42,373,,4.1,1.5,0.5,8,717
+2006,JAX,9,16,8,Jacksonville Jaguars,19,97,97,371,,7.5,1.4,0.5,8,810
+2006,RAM,10,16,8,St. Louis Rams,26,116,-14,367,,-4.0,-3.1,0.5,8,960
+2006,NYG,10,16,8,New York Giants,21,101,-7,355,Lost WC,0.1,0.5,0.5,8,881
+2006,RAV,9,16,3,Baltimore Ravens,17,109,152,353,Lost Divisional,9.3,-0.2,0.813,13,878
+2006,PIT,14,16,8,Pittsburgh Steelers,26,69,38,353,,3.4,1.0,0.5,8,611
+2006,SEA,12,16,7,Seattle Seahawks,33,94,-6,335,Lost Divisional,-3.6,-3.2,0.563,9,700
+2006,KAN,14,16,7,Kansas City Chiefs,21,76,16,331,Lost WC,1.0,0.0,0.563,9,577
+2006,OTI,7,16,8,Tennessee Titans,23,94,-76,324,,-1.3,3.5,0.5,8,803
+2006,DEN,12,16,7,Denver Broncos,28,67,14,319,,1.3,0.4,0.563,9,478
+2006,NYJ,9,16,6,New York Jets,29,70,21,316,Lost WC,2.0,0.7,0.625,10,560
+2006,CRD,13,16,11,Arizona Cardinals,27,117,-75,314,,-6.9,-2.2,0.313,5,937
+2006,WAS,7,16,11,Washington Redskins,22,106,-69,307,,-4.0,0.3,0.313,5,939
+2006,DET,17,16,13,Detroit Lions,29,116,-93,305,,-6.4,-0.5,0.188,3,939
+2006,GNB,15,16,8,Green Bay Packers,23,90,-65,301,,-4.4,-0.4,0.5,8,689
+2006,BUF,15,16,9,Buffalo Bills,20,87,-11,300,,2.2,2.9,0.438,7,629
+2006,SFO,16,16,9,San Francisco 49ers,14,93,-114,298,,-8.7,-1.6,0.438,7,818
+2006,ATL,5,16,9,Atlanta Falcons,20,96,-36,292,,-3.0,-0.8,0.438,7,877
+2006,MIN,12,16,10,Minnesota Vikings,25,123,-45,282,,-4.1,-1.3,0.375,6,903
+2006,CAR,10,16,8,Carolina Panthers,20,103,-35,270,,-2.7,-0.5,0.5,8,744
+2006,HTX,12,16,10,Houston Texans,20,90,-99,267,,-4.5,1.7,0.375,6,761
+2006,MIA,6,16,10,Miami Dolphins,19,90,-23,260,,0.7,2.1,0.375,6,789
+2006,CLE,17,16,12,Cleveland Browns,25,74,-118,238,,-5.8,1.5,0.25,4,687
+2006,TAM,14,16,12,Tampa Bay Buccaneers,22,87,-142,211,,-7.9,0.9,0.25,4,732
+2006,RAI,22,16,14,Oakland Raiders,26,111,-164,168,,-9.6,0.6,0.125,2,847
+2007,NWE,6,16,0,New England Patriots,26,78,315,589,Lost Super Bowl,20.1,0.4,1.0,16,690
+2007,DAL,5,16,3,Dallas Cowboys,22,104,130,455,Lost Divisional,9.5,1.3,0.813,13,815
+2007,CLT,5,16,3,Indianapolis Colts,26,67,188,450,Lost Divisional,12.0,0.3,0.813,13,515
+2007,GNB,9,16,3,Green Bay Packers,28,113,144,435,Lost Conference Championship,9.0,0.0,0.813,13,1006
+2007,SDG,8,16,5,San Diego Chargers,16,94,128,412,Lost Conference Championship,8.8,0.8,0.688,11,761
+2007,JAX,13,16,5,Jacksonville Jaguars,21,76,107,411,Lost Divisional,6.8,0.1,0.688,11,594
+2007,CRD,12,16,8,Arizona Cardinals,28,137,5,404,,-3.9,-4.3,0.5,8,1128
+2007,CLE,9,16,6,Cleveland Browns,13,114,20,402,,-1.1,-2.3,0.625,10,868
+2007,PIT,8,16,6,Pittsburgh Steelers,11,80,124,393,Lost WC,5.2,-2.5,0.625,10,651
+2007,SEA,11,16,6,Seattle Seahawks,19,59,102,393,Lost Divisional,1.8,-4.6,0.625,10,428
+2007,CIN,10,16,9,Cincinnati Bengals,26,90,-5,380,,-2.4,-2.1,0.438,7,670
+2007,HTX,17,16,8,Houston Texans,9,82,-5,379,,0.0,0.3,0.5,8,636
+2007,NOR,12,16,9,New Orleans Saints,20,68,-9,379,,-2.5,-2.0,0.438,7,581
+2007,NYG,14,16,6,New York Giants,35,77,22,373,Won Super Bowl,3.3,1.9,0.625,10,652
+2007,MIN,16,16,8,Minnesota Vikings,24,86,54,365,,3.8,0.4,0.5,8,662
+2007,DET,14,16,9,Detroit Lions,27,100,-98,346,,-3.6,2.6,0.438,7,676
+2007,PHI,12,16,8,Philadelphia Eagles,19,83,36,336,,5.3,3.0,0.5,8,649
+2007,WAS,18,16,7,Washington Redskins,12,90,24,334,Lost WC,4.5,3.0,0.563,9,751
+2007,TAM,12,16,7,Tampa Bay Buccaneers,21,81,64,334,Lost WC,1.2,-2.8,0.563,9,614
+2007,CHI,13,16,9,Chicago Bears,24,111,-14,334,,1.2,2.1,0.438,7,839
+2007,DEN,14,16,9,Denver Broncos,22,90,-89,320,,-3.9,1.6,0.438,7,610
+2007,OTI,17,16,6,Tennessee Titans,17,101,4,301,Lost WC,0.7,0.5,0.625,10,773
+2007,RAI,17,16,12,Oakland Raiders,23,120,-115,283,,-6.0,1.2,0.25,4,864
+2007,RAV,26,16,11,Baltimore Ravens,20,107,-109,275,,-6.7,0.1,0.313,5,873
+2007,NYJ,6,16,12,New York Jets,21,63,-87,268,,-3.7,1.7,0.25,4,486
+2007,MIA,13,16,15,Miami Dolphins,14,91,-170,267,,-8.4,2.3,0.063,1,732
+2007,CAR,12,16,9,Carolina Panthers,28,95,-80,267,,-5.8,-0.8,0.438,7,801
+2007,RAM,9,16,13,St. Louis Rams,23,94,-175,263,,-13.0,-2.0,0.188,3,794
+2007,ATL,9,16,12,Atlanta Falcons,14,105,-155,259,,-10.6,-0.9,0.25,4,891
+2007,BUF,7,16,9,Buffalo Bills,16,78,-102,252,,-4.1,2.3,0.438,7,633
+2007,KAN,13,16,12,Kansas City Chiefs,18,101,-109,226,,-5.5,1.4,0.25,4,697
+2007,SFO,17,16,11,San Francisco 49ers,13,97,-145,219,,-11.9,-2.9,0.313,5,702
+2008,NOR,8,16,8,New Orleans Saints,19,86,70,463,,4.0,-0.3,0.5,8,797
+2008,SDG,9,16,8,San Diego Chargers,18,95,92,439,Lost Divisional,5.0,-0.8,0.5,8,748
+2008,NYG,3,16,4,New York Giants,32,102,133,427,Lost Divisional,8.4,0.1,0.75,12,821
+2008,CRD,15,16,7,Arizona Cardinals,25,107,1,427,Lost Super Bowl,-1.9,-1.9,0.563,9,781
+2008,GNB,8,16,10,Green Bay Packers,18,110,39,419,,2.9,0.5,0.375,6,984
+2008,PHI,10,16,6,Philadelphia Eagles,20,74,127,416,Lost Conference Championship,7.8,-0.1,0.594,9,635
+2008,CAR,7,16,4,Carolina Panthers,17,94,85,414,Lost Divisional,5.6,0.3,0.75,12,637
+2008,NWE,10,16,5,New England Patriots,25,57,101,410,,3.9,-2.4,0.688,11,501
+2008,NYJ,8,16,7,New York Jets,28,77,49,405,,0.2,-2.8,0.563,9,569
+2008,ATL,10,16,5,Atlanta Falcons,25,71,66,391,Lost WC,3.8,-0.3,0.688,11,591
+2008,RAV,9,16,5,Baltimore Ravens,21,103,141,385,Lost Conference Championship,9.8,1.0,0.688,11,785
+2008,MIN,14,16,6,Minnesota Vikings,23,90,46,379,Lost WC,4.0,1.2,0.625,10,692
+2008,CLT,5,16,4,Indianapolis Colts,21,86,79,377,Lost WC,6.5,1.6,0.75,12,619
+2008,CHI,13,16,7,Chicago Bears,13,78,25,375,,2.1,0.5,0.563,9,610
+2008,OTI,8,16,3,Tennessee Titans,17,108,141,375,Lost Divisional,8.9,0.1,0.813,13,855
+2008,DEN,12,16,8,Denver Broncos,28,77,-78,370,,-5.8,-0.9,0.5,8,739
+2008,HTX,12,16,8,Houston Texans,24,80,-28,366,,-0.4,1.4,0.5,8,664
+2008,DAL,13,16,7,Dallas Cowboys,18,120,-3,362,,0.6,0.8,0.563,9,957
+2008,TAM,13,16,7,Tampa Bay Buccaneers,14,95,38,361,,2.3,-0.1,0.563,9,834
+2008,PIT,10,16,4,Pittsburgh Steelers,18,95,124,347,Won Super Bowl,9.8,2.0,0.75,12,812
+2008,MIA,6,16,5,Miami Dolphins,13,81,28,345,Lost WC,-0.5,-2.3,0.688,11,669
+2008,SFO,16,16,9,San Francisco 49ers,28,98,-42,339,,-5.3,-2.7,0.438,7,732
+2008,BUF,15,16,9,Buffalo Bills,13,71,-6,336,,-3.3,-3.0,0.438,7,538
+2008,JAX,11,16,11,Jacksonville Jaguars,22,104,-65,302,,-2.5,1.6,0.313,5,813
+2008,SEA,12,16,12,Seattle Seahawks,19,79,-98,294,,-7.6,-1.5,0.25,4,601
+2008,KAN,8,16,14,Kansas City Chiefs,18,78,-149,291,,-9.2,0.1,0.125,2,645
+2008,DET,10,16,16,Detroit Lions,21,88,-249,268,,-13.1,2.5,0.0,0,729
+2008,WAS,12,16,8,Washington Redskins,21,83,-31,265,,-1.8,0.2,0.5,8,644
+2008,RAI,12,16,11,Oakland Raiders,15,109,-125,263,,-7.5,0.3,0.313,5,823
+2008,RAM,12,16,14,St. Louis Rams,14,97,-233,232,,-15.1,-0.5,0.125,2,718
+2008,CLE,6,16,12,Cleveland Browns,22,100,-118,232,,-4.6,2.7,0.25,4,669
+2008,CIN,11,16,11,Cincinnati Bengals,20,75,-160,204,,-7.0,3.0,0.281,4,591
+2009,NOR,16,16,3,New Orleans Saints,18,89,169,510,Won Super Bowl,10.8,0.2,0.813,13,787
+2009,MIN,11,16,4,Minnesota Vikings,24,101,158,470,Lost Conference Championship,7.2,-2.7,0.75,12,757
+2009,GNB,8,16,5,Green Bay Packers,32,118,164,461,Lost WC,7.4,-2.9,0.688,11,1057
+2009,SDG,7,16,3,San Diego Chargers,28,78,134,454,Lost Divisional,6.6,-1.7,0.813,13,570
+2009,PHI,10,16,5,Philadelphia Eagles,21,115,92,429,Lost WC,6.0,0.2,0.688,11,951
+2009,NWE,9,16,6,New England Patriots,37,81,142,427,Lost WC,11.2,2.3,0.625,10,743
+2009,CLT,5,16,2,Indianapolis Colts,29,74,109,416,Lost Super Bowl,5.9,-0.9,0.875,14,546
+2009,NYG,17,16,8,New York Giants,26,95,-25,402,,0.1,1.6,0.5,8,802
+2009,RAV,9,16,7,Baltimore Ravens,18,115,130,391,Lost Divisional,7.5,-0.7,0.563,9,1094
+2009,HTX,11,16,7,Houston Texans,16,95,55,388,,2.0,-1.5,0.563,9,833
+2009,CRD,18,16,6,Arizona Cardinals,25,108,50,375,Lost Divisional,-0.3,-3.4,0.625,10,886
+2009,PIT,11,16,7,Pittsburgh Steelers,25,85,44,368,,1.7,-1.1,0.563,9,769
+2009,ATL,8,16,7,Atlanta Falcons,33,78,38,363,,5.0,2.7,0.563,9,664
+2009,DAL,10,16,5,Dallas Cowboys,22,115,111,361,Lost Divisional,7.1,0.2,0.688,11,892
+2009,MIA,10,16,9,Miami Dolphins,16,78,-30,360,,1.7,3.6,0.438,7,640
+2009,OTI,16,16,8,Tennessee Titans,19,98,-48,354,,-2.8,0.2,0.5,8,821
+2009,NYJ,9,16,7,New York Jets,17,88,112,348,Lost Conference Championship,8.6,1.6,0.563,9,677
+2009,SFO,10,16,8,San Francisco 49ers,24,98,49,330,,0.1,-3.0,0.5,8,758
+2009,CHI,7,16,9,Chicago Bears,21,100,-48,327,,-3.9,-0.9,0.438,7,836
+2009,DEN,10,16,8,Denver Broncos,25,93,2,326,,0.3,0.2,0.5,8,800
+2009,CAR,11,16,8,Carolina Panthers,14,88,7,315,,3.9,3.5,0.5,8,698
+2009,CIN,12,16,6,Cincinnati Bengals,27,114,14,305,Lost WC,0.7,-0.2,0.625,10,863
+2009,KAN,10,16,12,Kansas City Chiefs,26,84,-130,294,,-8.4,-0.3,0.25,4,667
+2009,JAX,13,16,9,Jacksonville Jaguars,16,70,-90,290,,-6.5,-0.9,0.438,7,542
+2009,SEA,12,16,11,Seattle Seahawks,33,95,-110,280,,-9.3,-2.4,0.313,5,840
+2009,WAS,12,16,12,Washington Redskins,17,85,-70,266,,-4.6,-0.2,0.25,4,679
+2009,DET,9,16,14,Detroit Lions,31,98,-232,262,,-14.4,0.1,0.125,2,768
+2009,BUF,11,16,10,Buffalo Bills,26,107,-68,258,,-1.8,2.4,0.375,6,855
+2009,CLE,13,16,11,Cleveland Browns,17,77,-130,245,,-8.4,-0.3,0.313,5,678
+2009,TAM,5,16,13,Tampa Bay Buccaneers,18,93,-156,244,,-5.6,4.1,0.188,3,696
+2009,RAI,15,16,11,Oakland Raiders,22,117,-182,197,,-10.3,1.1,0.313,5,920
+2009,RAM,12,16,15,St. Louis Rams,21,100,-261,175,,-17.4,-1.1,0.063,1,834
+2010,NWE,5,16,2,New England Patriots,20,83,205,518,Lost Divisional,15.4,2.6,0.875,14,766
+2010,SDG,16,16,7,San Diego Chargers,27,84,119,441,,4.8,-2.6,0.563,9,677
+2010,PHI,12,16,6,Philadelphia Eagles,17,129,62,439,Lost WC,4.2,0.3,0.625,10,1101
+2010,CLT,8,16,6,Indianapolis Colts,26,79,47,435,Lost WC,2.9,-0.1,0.625,10,709
+2010,ATL,8,16,3,Atlanta Falcons,42,58,126,414,Lost Divisional,6.1,-1.8,0.813,13,598
+2010,RAI,10,16,8,Oakland Raiders,34,148,39,410,,0.2,-2.3,0.5,8,1276
+2010,DAL,11,16,10,Dallas Cowboys,22,109,-42,394,,-2.2,0.5,0.375,6,863
+2010,NYG,17,16,6,New York Giants,27,92,47,394,,2.1,-0.8,0.625,10,777
+2010,HTX,6,16,10,Houston Texans,20,90,-37,390,,-1.8,0.5,0.375,6,690
+2010,GNB,9,16,6,Green Bay Packers,20,78,148,388,Won Super Bowl,10.9,1.7,0.625,10,617
+2010,NOR,9,16,5,New Orleans Saints,21,90,77,384,Lost WC,2.3,-2.5,0.688,11,884
+2010,PIT,9,16,4,Pittsburgh Steelers,14,100,143,375,Lost Super Bowl,10.2,1.3,0.75,12,903
+2010,NYJ,7,16,5,New York Jets,18,103,63,367,Lost Conference Championship,6.5,2.5,0.688,11,934
+2010,KAN,6,16,6,Kansas City Chiefs,23,90,40,366,Lost WC,-0.7,-3.2,0.625,10,771
+2010,DET,9,16,10,Detroit Lions,22,136,-7,362,,1.9,2.3,0.375,6,1018
+2010,RAV,10,16,4,Baltimore Ravens,31,90,87,357,Lost Divisional,6.4,1.0,0.75,12,673
+2010,OTI,14,16,10,Tennessee Titans,24,128,17,356,,1.0,0.0,0.375,6,1040
+2010,JAX,12,16,8,Jacksonville Jaguars,21,83,-66,353,,-4.5,-0.4,0.5,8,675
+2010,DEN,15,16,12,Denver Broncos,24,98,-127,344,,-8.9,-1.0,0.25,4,944
+2010,TAM,13,16,6,Tampa Bay Buccaneers,19,100,23,341,,-0.6,-2.0,0.625,10,837
+2010,CHI,10,16,5,Chicago Bears,24,91,48,334,Lost Conference Championship,4.1,1.1,0.688,11,768
+2010,CIN,14,16,12,Cincinnati Bengals,26,90,-73,322,,-1.4,3.1,0.25,4,725
+2010,SEA,11,16,9,Seattle Seahawks,20,101,-97,310,Lost Divisional,-9.4,-3.4,0.438,7,890
+2010,SFO,8,16,10,San Francisco 49ers,17,112,-41,305,,-5.8,-3.3,0.375,6,933
+2010,WAS,12,16,10,Washington Redskins,29,90,-75,302,,-3.8,0.9,0.375,6,647
+2010,RAM,6,16,9,St. Louis Rams,29,102,-39,289,,-6.7,-4.2,0.438,7,877
+2010,CRD,16,16,11,Arizona Cardinals,20,108,-145,289,,-12.7,-3.6,0.313,5,870
+2010,BUF,18,16,12,Buffalo Bills,15,82,-142,283,,-4.6,4.3,0.25,4,633
+2010,MIN,11,16,10,Minnesota Vikings,26,100,-67,281,,-1.6,2.6,0.375,6,769
+2010,MIA,10,16,9,Miami Dolphins,20,72,-60,273,,0.3,4.1,0.438,7,595
+2010,CLE,11,16,11,Cleveland Browns,24,78,-61,271,,-1.5,2.3,0.313,5,675
+2010,CAR,16,16,14,Carolina Panthers,22,106,-212,196,,-13.2,0.1,0.125,2,918
+2011,GNB,6,16,1,Green Bay Packers,34,76,201,560,Lost Divisional,11.4,-1.2,0.938,15,591
+2011,NOR,5,16,3,New Orleans Saints,20,99,208,547,Lost Divisional,11.4,-1.6,0.813,13,851
+2011,NWE,5,16,3,New England Patriots,30,87,171,513,Lost Super Bowl,9.3,-1.4,0.813,13,815
+2011,DET,7,16,6,Detroit Lions,34,128,87,474,Lost WC,6.1,0.6,0.625,10,1075
+2011,CAR,6,16,10,Carolina Panthers,31,113,-23,406,,-1.3,0.1,0.375,6,1013
+2011,SDG,8,16,8,San Diego Chargers,28,91,29,406,,0.9,-0.9,0.5,8,753
+2011,ATL,8,16,6,Atlanta Falcons,34,93,52,402,Lost WC,3.5,0.3,0.625,10,769
+2011,PHI,13,16,8,Philadelphia Eagles,25,107,68,396,,4.7,0.5,0.5,8,853
+2011,NYG,8,16,7,New York Giants,31,94,-6,394,Won Super Bowl,1.6,2.0,0.563,9,795
+2011,HTX,11,16,6,Houston Texans,14,99,103,381,Lost Divisional,4.5,-1.9,0.625,10,852
+2011,SFO,5,16,3,San Francisco 49ers,31,113,151,380,Lost Conference Championship,8.3,-1.1,0.813,13,1014
+2011,RAV,12,16,4,Baltimore Ravens,33,92,112,378,Lost Conference Championship,6.1,-0.9,0.75,12,742
+2011,NYJ,16,16,8,New York Jets,36,102,14,377,,0.9,0.0,0.5,8,849
+2011,BUF,5,16,10,Buffalo Bills,33,86,-62,372,,-3.4,0.5,0.375,6,743
+2011,DAL,9,16,8,Dallas Cowboys,17,114,22,369,,1.6,0.3,0.5,8,816
+2011,RAI,7,16,8,Oakland Raiders,32,163,-74,359,,-4.9,-0.3,0.5,8,1358
+2011,CHI,9,16,8,Chicago Bears,21,104,12,353,,1.7,0.9,0.5,8,800
+2011,CIN,8,16,7,Cincinnati Bengals,32,99,21,344,Lost WC,0.5,-0.9,0.563,9,874
+2011,MIN,9,16,13,Minnesota Vikings,20,109,-109,340,,-5.7,1.1,0.188,3,908
+2011,MIA,12,16,10,Miami Dolphins,32,85,16,329,,0.9,-0.1,0.375,6,779
+2011,OTI,8,16,7,Tennessee Titans,25,104,8,325,,-1.0,-1.5,0.563,9,960
+2011,PIT,13,16,4,Pittsburgh Steelers,24,101,98,325,Lost WC,5.3,-0.8,0.75,12,854
+2011,SEA,9,16,9,Seattle Seahawks,23,138,6,321,,0.8,0.4,0.438,7,1047
+2011,CRD,9,16,8,Arizona Cardinals,28,106,-36,312,,-2.2,0.0,0.5,8,1004
+2011,DEN,17,16,8,Denver Broncos,27,101,-81,309,Lost Divisional,-5.3,-0.2,0.5,8,843
+2011,WAS,11,16,11,Washington Redskins,29,91,-79,288,,-4.1,0.8,0.313,5,897
+2011,TAM,16,16,12,Tampa Bay Buccaneers,23,123,-207,287,,-10.6,2.3,0.25,4,1007
+2011,JAX,8,16,11,Jacksonville Jaguars,26,77,-86,243,,-5.6,-0.3,0.313,5,680
+2011,CLT,15,16,14,Indianapolis Colts,19,76,-187,243,,-11.3,0.4,0.125,2,549
+2011,CLE,6,16,12,Cleveland Browns,28,95,-89,218,,-5.4,0.2,0.25,4,847
+2011,KAN,10,16,9,Kansas City Chiefs,25,110,-126,212,,-8.1,-0.2,0.438,7,916
+2011,RAM,13,16,14,St. Louis Rams,29,112,-214,193,,-10.4,2.9,0.125,2,899
+2012,NWE,7,16,4,New England Patriots,37,97,226,557,Lost Conference Championship,12.8,-1.4,0.75,12,840
+2012,DEN,14,16,3,Denver Broncos,36,100,192,481,Lost Divisional,10.1,-1.9,0.813,13,805
+2012,NOR,5,16,9,New Orleans Saints,21,104,7,461,,1.4,1.0,0.438,7,911
+2012,WAS,6,16,6,Washington Redskins,26,116,48,436,Lost WC,3.4,0.4,0.625,10,985
+2012,GNB,8,16,5,Green Bay Packers,43,103,97,433,Lost Divisional,7.3,1.2,0.688,11,923
+2012,NYG,6,16,7,New York Giants,37,72,85,429,,6.2,0.9,0.563,9,578
+2012,ATL,4,16,3,Atlanta Falcons,26,55,120,419,Lost Conference Championship,6.4,-1.1,0.813,13,415
+2012,HTX,4,16,4,Houston Texans,22,108,85,416,Lost Divisional,3.5,-1.8,0.75,12,873
+2012,SEA,8,16,5,Seattle Seahawks,29,110,167,412,Lost Divisional,12.2,1.8,0.688,11,890
+2012,RAV,5,16,6,Baltimore Ravens,34,121,54,398,Won Super Bowl,2.9,-0.5,0.625,10,1127
+2012,SFO,8,16,4,San Francisco 49ers,22,109,124,397,Lost Super Bowl,10.2,2.5,0.719,11,960
+2012,CIN,10,16,6,Cincinnati Bengals,24,99,71,391,Lost WC,2.1,-2.4,0.625,10,857
+2012,TAM,6,16,9,Tampa Bay Buccaneers,24,101,-5,389,,0.0,0.3,0.438,7,819
+2012,MIN,11,16,6,Minnesota Vikings,30,90,31,379,Lost WC,3.4,1.4,0.625,10,830
+2012,DAL,10,16,8,Dallas Cowboys,25,117,-24,376,,0.3,1.8,0.5,8,853
+2012,CHI,8,16,6,Chicago Bears,30,102,98,375,,6.9,0.8,0.625,10,811
+2012,DET,16,16,12,Detroit Lions,26,103,-65,372,,-2.3,1.8,0.25,4,944
+2012,CAR,10,16,9,Carolina Panthers,34,98,-6,357,,0.8,1.2,0.438,7,835
+2012,CLT,9,16,5,Indianapolis Colts,42,94,-30,357,Lost WC,-4.7,-2.8,0.688,11,801
+2012,SDG,11,16,9,San Diego Chargers,28,103,0,350,,-2.3,-2.3,0.438,7,796
+2012,BUF,17,16,10,Buffalo Bills,22,104,-91,344,,-6.7,-1.0,0.375,6,871
+2012,PIT,16,16,8,Pittsburgh Steelers,25,92,22,336,,-0.7,-2.0,0.5,8,938
+2012,OTI,12,16,10,Tennessee Titans,24,106,-141,330,,-10.0,-1.2,0.375,6,847
+2012,CLE,8,16,11,Cleveland Browns,23,113,-66,302,,-5.3,-1.2,0.313,5,1005
+2012,RAM,8,16,8,St. Louis Rams,19,130,-49,299,,0.4,3.4,0.469,7,978
+2012,RAI,10,16,12,Oakland Raiders,28,108,-153,290,,-10.8,-1.3,0.25,4,939
+2012,MIA,13,16,9,Miami Dolphins,37,82,-29,288,,-2.6,-0.8,0.438,7,724
+2012,NYJ,18,16,10,New York Jets,35,83,-94,281,,-5.9,0.0,0.375,6,708
+2012,PHI,22,16,12,Philadelphia Eagles,31,98,-164,280,,-8.9,1.4,0.25,4,813
+2012,JAX,9,16,14,Jacksonville Jaguars,36,101,-189,255,,-13.0,-1.1,0.125,2,955
+2012,CRD,13,16,11,Arizona Cardinals,20,102,-107,250,,-3.2,3.5,0.313,5,857
+2012,KAN,17,16,14,Kansas City Chiefs,24,92,-214,211,,-14.0,-0.6,0.125,2,733
+2013,DEN,16,16,3,Denver Broncos,35,117,207,606,Lost Super Bowl,11.4,-1.6,0.813,13,1000
+2013,CHI,10,16,8,Chicago Bears,27,85,-33,445,,-4.1,-2.1,0.5,8,708
+2013,NWE,9,16,4,New England Patriots,43,69,106,444,Lost Conference Championship,5.9,-0.7,0.75,12,625
+2013,PHI,10,16,6,Philadelphia Eagles,25,95,60,442,Lost WC,1.9,-1.9,0.625,10,846
+2013,DAL,8,16,8,Dallas Cowboys,32,102,7,439,,-0.7,-1.1,0.5,8,867
+2013,CIN,10,16,5,Cincinnati Bengals,24,102,125,430,Lost WC,5.4,-2.5,0.688,11,1000
+2013,KAN,10,16,5,Kansas City Chiefs,34,101,125,430,Lost WC,6.1,-1.7,0.688,11,774
+2013,GNB,9,16,7,Green Bay Packers,31,86,-11,417,Lost WC,-3.1,-2.4,0.531,8,801
+2013,SEA,10,16,3,Seattle Seahawks,31,128,186,417,Won Super Bowl,13.0,1.4,0.813,13,1183
+2013,NOR,7,16,5,New Orleans Saints,28,95,110,414,Lost Divisional,8.8,1.9,0.688,11,817
+2013,SFO,10,16,4,San Francisco 49ers,23,103,134,406,Lost Conference Championship,10.1,1.8,0.75,12,845
+2013,SDG,10,16,7,San Diego Chargers,39,95,48,396,Lost Divisional,2.7,-0.3,0.563,9,765
+2013,DET,15,16,9,Detroit Lions,23,110,19,395,,-1.6,-2.8,0.438,7,925
+2013,CLT,4,16,5,Indianapolis Colts,39,66,55,391,Lost Divisional,4.0,0.6,0.688,11,576
+2013,MIN,13,16,10,Minnesota Vikings,30,70,-89,391,,-6.6,-1.1,0.344,5,695
+2013,CRD,9,16,6,Arizona Cardinals,40,96,55,379,,6.4,3.0,0.625,10,744
+2013,PIT,10,16,8,Pittsburgh Steelers,24,80,9,379,,-2.0,-2.5,0.5,8,677
+2013,CAR,6,16,4,Carolina Panthers,28,80,125,366,Lost Divisional,9.2,1.4,0.75,12,671
+2013,OTI,9,16,9,Tennessee Titans,36,101,-19,362,,-0.8,0.4,0.438,7,900
+2013,ATL,11,16,12,Atlanta Falcons,39,91,-90,353,,-2.8,2.9,0.25,4,788
+2013,RAM,10,16,9,St. Louis Rams,35,123,-16,348,,2.2,3.2,0.438,7,1009
+2013,BUF,12,16,10,Buffalo Bills,39,110,-49,339,,-3.2,-0.1,0.375,6,954
+2013,WAS,15,16,13,Washington Redskins,19,99,-144,334,,-9.3,-0.3,0.188,3,802
+2013,RAI,11,16,12,Oakland Raiders,17,116,-131,322,,-8.0,0.2,0.25,4,912
+2013,RAV,6,16,8,Baltimore Ravens,38,112,-32,320,,-3.5,-1.5,0.5,8,942
+2013,MIA,7,16,8,Miami Dolphins,12,70,-18,317,,-0.8,0.3,0.5,8,598
+2013,CLE,9,16,12,Cleveland Browns,24,104,-98,308,,-7.7,-1.6,0.25,4,920
+2013,NYG,15,16,9,New York Giants,27,91,-89,294,,-5.4,0.2,0.438,7,786
+2013,NYJ,7,16,8,New York Jets,21,108,-97,290,,-6.1,0.0,0.5,8,837
+2013,TAM,9,16,12,Tampa Bay Buccaneers,37,121,-101,288,,-2.7,3.6,0.25,4,1136
+2013,HTX,9,16,14,Houston Texans,19,112,-152,276,,-7.6,1.9,0.125,2,1138
+2013,JAX,6,16,12,Jacksonville Jaguars,24,96,-202,247,,-11.1,1.5,0.25,4,797
+2014,GNB,7,16,4,Green Bay Packers,30,92,138,486,Lost Conference Championship,8.3,-0.3,0.75,12,775
+2014,DEN,5,16,4,Denver Broncos,35,120,128,482,Lost Divisional,9.6,1.6,0.75,12,1045
+2014,PHI,15,16,6,Philadelphia Eagles,29,115,74,474,,3.9,-0.7,0.625,10,995
+2014,NWE,4,16,4,New England Patriots,37,120,155,468,Won Super Bowl,10.9,1.3,0.75,12,1080
+2014,DAL,14,16,4,Dallas Cowboys,31,105,115,467,Lost Divisional,5.4,-1.8,0.75,12,839
+2014,CLT,15,16,5,Indianapolis Colts,40,105,89,458,Lost Conference Championship,4.4,-1.1,0.688,11,848
+2014,PIT,11,16,5,Pittsburgh Steelers,38,103,68,436,Lost WC,2.2,-2.0,0.688,11,834
+2014,RAV,8,16,6,Baltimore Ravens,38,111,107,409,Lost Divisional,4.6,-2.1,0.625,10,870
+2014,NOR,13,16,9,New Orleans Saints,36,80,-23,401,,-2.9,-1.5,0.438,7,670
+2014,SEA,7,16,4,Seattle Seahawks,24,130,140,394,Lost Super Bowl,9.5,0.8,0.75,12,1009
+2014,MIA,11,16,8,Miami Dolphins,36,81,15,388,,2.6,1.6,0.5,8,635
+2014,ATL,8,16,10,Atlanta Falcons,22,97,-36,381,,-3.8,-1.6,0.375,6,840
+2014,NYG,14,16,10,New York Giants,35,101,-20,380,,-1.7,-0.4,0.375,6,896
+2014,HTX,9,16,7,Houston Texans,34,94,65,372,,1.7,-2.3,0.563,9,834
+2014,CIN,9,16,5,Cincinnati Bengals,27,102,21,365,Lost WC,0.7,-0.6,0.656,10,812
+2014,KAN,11,16,7,Kansas City Chiefs,33,88,72,353,,5.7,1.2,0.563,9,681
+2014,SDG,5,16,7,San Diego Chargers,37,111,0,348,,1.9,1.9,0.563,9,967
+2014,BUF,10,16,7,Buffalo Bills,22,124,54,343,,4.9,1.6,0.563,9,1031
+2014,CAR,11,16,8,Carolina Panthers,31,83,-35,339,Lost Divisional,-3.1,-0.9,0.469,7,756
+2014,MIN,2,16,9,Minnesota Vikings,27,100,-18,325,,-1.7,-0.5,0.438,7,836
+2014,RAM,11,16,10,St. Louis Rams,20,123,-30,324,,-0.8,1.0,0.375,6,1139
+2014,DET,8,16,5,Detroit Lions,28,118,39,321,Lost WC,2.1,-0.4,0.688,11,989
+2014,CHI,10,16,11,Chicago Bears,37,113,-123,319,,-6.7,1.0,0.313,5,997
+2014,CRD,5,16,5,Arizona Cardinals,44,91,11,310,Lost WC,2.0,1.3,0.688,11,707
+2014,SFO,12,16,8,San Francisco 49ers,34,116,-34,306,,-1.0,1.2,0.5,8,937
+2014,WAS,13,16,12,Washington Redskins,44,120,-137,301,,-8.7,-0.2,0.25,4,1130
+2014,CLE,7,16,9,Cleveland Browns,27,116,-38,299,,-3.9,-1.5,0.438,7,932
+2014,NYJ,9,16,12,New York Jets,23,109,-118,283,,-5.0,2.3,0.25,4,932
+2014,TAM,13,16,14,Tampa Bay Buccaneers,29,118,-133,277,,-9.8,-1.5,0.125,2,939
+2014,OTI,10,16,14,Tennessee Titans,24,111,-184,254,,-11.8,-0.3,0.125,2,961
+2014,RAI,13,16,13,Oakland Raiders,19,116,-199,253,,-9.0,3.4,0.188,3,939
+2014,JAX,8,16,13,Jacksonville Jaguars,31,73,-163,249,,-10.5,-0.3,0.188,3,573
+2015,CAR,9,16,1,Carolina Panthers,24,103,192,500,Lost Super Bowl,8.1,-3.9,0.938,15,887
+2015,CRD,11,16,3,Arizona Cardinals,44,94,176,489,Lost Conference Championship,12.3,1.3,0.813,13,758
+2015,NWE,7,16,4,New England Patriots,31,96,150,465,Lost Conference Championship,7.0,-2.4,0.75,12,860
+2015,SEA,8,16,6,Seattle Seahawks,17,117,146,423,Lost Divisional,11.3,2.2,0.625,10,1007
+2015,PIT,7,16,6,Pittsburgh Steelers,33,94,104,423,Lost Divisional,8.7,2.2,0.625,10,868
+2015,NYG,7,16,10,New York Giants,46,102,-22,420,,-3.6,-2.2,0.375,6,777
+2015,CIN,8,16,4,Cincinnati Bengals,34,111,140,419,Lost WC,10.6,1.9,0.75,12,917
+2015,NOR,8,16,9,New Orleans Saints,36,130,-68,408,,-6.6,-2.3,0.438,7,1112
+2015,KAN,8,16,5,Kansas City Chiefs,32,104,118,405,Lost Divisional,9.0,1.6,0.688,11,878
+2015,WAS,11,16,7,Washington Redskins,28,105,9,388,Lost WC,-1.9,-2.5,0.563,9,828
+2015,NYJ,8,16,6,New York Jets,20,96,73,387,,1.5,-3.0,0.625,10,787
+2015,BUF,10,16,8,Buffalo Bills,20,143,20,379,,0.0,-1.2,0.5,8,1249
+2015,PHI,13,16,9,Philadelphia Eagles,36,104,-53,377,,-4.6,-1.3,0.438,7,819
+2015,JAX,10,16,11,Jacksonville Jaguars,29,105,-72,376,,-7.5,-3.0,0.313,5,880
+2015,GNB,9,16,6,Green Bay Packers,44,105,45,368,Lost Divisional,5.3,2.5,0.625,10,906
+2015,MIN,8,16,5,Minnesota Vikings,31,88,63,365,Lost WC,5.8,1.9,0.688,11,797
+2015,RAI,10,16,9,Oakland Raiders,33,139,-40,359,,-0.2,2.3,0.438,7,1102
+2015,DET,10,16,9,Detroit Lions,30,104,-42,358,,-0.2,2.4,0.438,7,930
+2015,DEN,8,16,4,Denver Broncos,28,115,59,355,Won Super Bowl,5.8,2.1,0.75,12,1063
+2015,TAM,13,16,10,Tampa Bay Buccaneers,36,143,-75,342,,-7.7,-3.0,0.375,6,1195
+2015,ATL,13,16,8,Atlanta Falcons,34,100,-6,339,,-3.8,-3.4,0.5,8,969
+2015,HTX,8,16,7,Houston Texans,35,107,26,339,Lost WC,-0.8,-2.4,0.563,9,910
+2015,CHI,9,16,10,Chicago Bears,27,99,-62,335,,-1.3,2.6,0.375,6,909
+2015,CLT,11,16,8,Indianapolis Colts,39,108,-75,333,,-6.7,-2.0,0.5,8,931
+2015,RAV,7,16,11,Baltimore Ravens,23,122,-73,328,,-1.9,2.6,0.313,5,1153
+2015,SDG,11,16,12,San Diego Chargers,35,117,-78,320,,-2.6,2.2,0.25,4,942
+2015,MIA,7,16,10,Miami Dolphins,25,134,-79,310,,-6.8,-1.9,0.375,6,1090
+2015,OTI,16,16,13,Tennessee Titans,37,93,-124,299,,-10.5,-2.8,0.188,3,779
+2015,RAM,11,16,9,St. Louis Rams,23,122,-50,280,,-0.2,3.0,0.438,7,1057
+2015,CLE,18,16,13,Cleveland Browns,34,120,-154,278,,-6.1,3.5,0.188,3,1083
+2015,DAL,11,16,12,Dallas Cowboys,38,112,-99,275,,-6.9,-0.7,0.25,4,882
+2015,SFO,5,16,11,San Francisco 49ers,24,113,-149,238,,-5.5,3.8,0.313,5,823
+2016,ATL,4,16,5,Atlanta Falcons,32,104,134,540,Lost Super Bowl,8.5,0.1,0.688,11,848
+2016,NOR,9,16,9,New Orleans Saints,25,107,15,469,,1.5,0.6,0.438,7,969
+2016,NWE,9,16,2,New England Patriots,39,93,191,441,Won Super Bowl,9.3,-2.7,0.875,14,819
+2016,GNB,9,16,6,Green Bay Packers,36,100,44,432,Lost Conference Championship,2.8,0.1,0.625,10,827
+2016,DAL,9,16,3,Dallas Cowboys,25,105,115,421,Lost Divisional,7.0,-0.2,0.813,13,879
+2016,CRD,11,16,8,Arizona Cardinals,42,104,56,418,,1.6,-1.9,0.469,7,889
+2016,RAI,7,16,4,Oakland Raiders,37,147,31,416,Lost WC,3.3,1.3,0.75,12,1247
+2016,CLT,7,16,8,Indianapolis Colts,38,103,19,411,,0.4,-0.8,0.5,8,883
+2016,SDG,14,16,11,San Diego Chargers,36,107,-13,410,,0.1,0.9,0.313,5,780
+2016,BUF,5,16,9,Buffalo Bills,27,112,21,399,,-0.3,-1.6,0.438,7,960
+2016,PIT,3,16,5,Pittsburgh Steelers,29,112,72,399,Lost Conference Championship,4.7,0.2,0.688,11,1068
+2016,WAS,9,16,7,Washington Redskins,30,110,13,396,,2.0,1.2,0.531,8,909
+2016,KAN,9,16,4,Kansas City Chiefs,22,109,78,389,Lost Divisional,5.6,0.7,0.75,12,848
+2016,OTI,7,16,7,Tennessee Titans,32,110,3,381,,-1.0,-1.2,0.563,9,1012
+2016,CAR,10,16,10,Carolina Panthers,25,98,-33,369,,-1.0,1.1,0.375,6,835
+2016,PHI,6,16,9,Philadelphia Eagles,27,113,36,367,,3.8,1.6,0.438,7,945
+2016,MIA,8,16,6,Miami Dolphins,21,125,-17,363,Lost WC,-2.4,-1.3,0.625,10,1142
+2016,SEA,6,16,5,Seattle Seahawks,25,117,62,354,Lost Divisional,2.1,-1.7,0.656,10,970
+2016,TAM,9,16,7,Tampa Bay Buccaneers,40,109,-15,354,,-0.2,0.7,0.563,9,926
+2016,DET,5,16,7,Detroit Lions,36,100,-12,346,Lost WC,-1.4,-0.6,0.563,9,861
+2016,RAV,7,16,8,Baltimore Ravens,32,125,22,343,,1.5,0.2,0.5,8,1111
+2016,DEN,14,16,7,Denver Broncos,33,119,36,333,,4.0,1.8,0.563,9,985
+2016,MIN,11,16,8,Minnesota Vikings,28,103,20,327,,0.9,-0.3,0.5,8,882
+2016,CIN,9,16,9,Cincinnati Bengals,37,88,10,325,,1.0,0.4,0.406,6,726
+2016,JAX,13,16,13,Jacksonville Jaguars,39,129,-82,318,,-5.0,0.2,0.188,3,1187
+2016,NYG,11,16,5,New York Giants,26,88,26,310,Lost WC,2.1,0.5,0.688,11,857
+2016,SFO,15,16,14,San Francisco 49ers,19,99,-171,309,,-11.2,-0.5,0.125,2,831
+2016,HTX,8,16,7,Houston Texans,30,87,-49,279,Lost Divisional,-2.6,0.4,0.563,9,868
+2016,CHI,12,16,13,Chicago Bears,19,110,-120,279,,-7.5,0.0,0.188,3,967
+2016,NYJ,9,16,11,New York Jets,28,93,-134,275,,-8.5,-0.1,0.313,5,837
+2016,CLE,11,16,15,Cleveland Browns,32,95,-188,264,,-10.1,1.7,0.063,1,736
+2016,RAM,9,16,12,Los Angeles Rams,26,126,-170,224,,-11.1,-0.5,0.25,4,1091
+2017,RAM,14,16,5,Los Angeles Rams,29,107,149,478,Lost WC,9.2,-0.2,0.688,11,922
+2017,NWE,4,16,3,New England Patriots,50,95,162,458,Lost Super Bowl,8.9,-1.2,0.813,13,835
+2017,PHI,11,16,3,Philadelphia Eagles,37,116,162,457,Won Super Bowl,9.4,-0.7,0.813,13,962
+2017,NOR,10,16,5,New Orleans Saints,20,105,122,448,Lost Divisional,9.2,1.5,0.688,11,967
+2017,JAX,10,16,6,Jacksonville Jaguars,38,112,149,417,Lost Conference Championship,6.5,-2.8,0.625,10,936
+2017,KAN,3,16,6,Kansas City Chiefs,29,118,76,415,Lost WC,3.4,-1.3,0.625,10,1044
+2017,DET,11,16,7,Detroit Lions,28,104,34,410,,2.7,0.6,0.563,9,968
+2017,PIT,5,16,3,Pittsburgh Steelers,35,101,98,406,Lost Divisional,5.0,-1.1,0.813,13,897
+2017,RAV,4,16,7,Baltimore Ravens,32,91,92,395,,3.4,-2.4,0.563,9,749
+2017,MIN,6,16,3,Minnesota Vikings,38,100,130,382,Lost Conference Championship,9.1,1.0,0.813,13,949
+2017,SEA,5,16,7,Seattle Seahawks,31,148,34,366,,1.9,-0.2,0.563,9,1342
+2017,CAR,6,16,5,Carolina Panthers,32,83,36,363,Lost WC,4.3,2.1,0.688,11,682
+2017,SDG,4,16,7,Los Angeles Chargers,33,108,83,355,,3.6,-1.5,0.563,9,927
+2017,DAL,9,16,7,Dallas Cowboys,25,97,22,354,,1.6,0.2,0.563,9,939
+2017,ATL,6,16,6,Atlanta Falcons,29,102,38,353,Lost Divisional,4.3,1.9,0.625,10,918
+2017,WAS,14,16,9,Washington Redskins,21,92,-46,342,,-1.3,1.6,0.438,7,733
+2017,HTX,11,16,12,Houston Texans,47,124,-98,338,,-6.4,-0.3,0.25,4,1050
+2017,TAM,13,16,11,Tampa Bay Buccaneers,33,104,-47,335,,-1.3,1.7,0.313,5,795
+2017,OTI,8,16,7,Tennessee Titans,36,85,-22,334,Lost Divisional,-3.5,-2.1,0.563,9,785
+2017,SFO,8,16,10,San Francisco 49ers,27,123,-52,331,,-2.9,0.4,0.375,6,988
+2017,GNB,7,16,9,Green Bay Packers,32,96,-64,320,,-1.9,2.1,0.438,7,789
+2017,BUF,6,16,7,Buffalo Bills,24,98,-57,302,Lost WC,-4.0,-0.5,0.563,9,872
+2017,RAI,14,16,10,Oakland Raiders,31,114,-72,301,,-4.7,-0.2,0.375,6,1009
+2017,NYJ,12,16,11,New York Jets,35,119,-84,298,,-4.9,0.3,0.313,5,1035
+2017,CRD,7,16,8,Arizona Cardinals,44,110,-66,295,,-3.7,0.4,0.5,8,880
+2017,CIN,11,16,9,Cincinnati Bengals,30,110,-59,290,,-5.0,-1.3,0.438,7,1027
+2017,DEN,12,16,11,Denver Broncos,25,113,-93,289,,-6.7,-0.9,0.313,5,885
+2017,MIA,8,16,10,Miami Dolphins,31,137,-112,281,,-6.3,0.7,0.375,6,1154
+2017,CHI,10,16,11,Chicago Bears,30,115,-56,264,,-1.3,2.2,0.313,5,943
+2017,CLT,6,16,12,Indianapolis Colts,25,92,-141,263,,-10.1,-1.3,0.25,4,779
+2017,NYG,8,16,13,New York Giants,27,91,-142,246,,-7.6,1.3,0.188,3,895
+2017,CLE,13,16,16,Cleveland Browns,36,110,-176,234,,-11.0,0.0,0.0,0,924
+2018,KAN,6,16,4,Kansas City Chiefs,37,137,144,565,Lost Conference Championship,8.9,-0.1,0.75,12,1152
+2018,RAM,7,16,3,Los Angeles Rams,31,96,143,527,Lost Super Bowl,8.5,-0.4,0.813,13,878
+2018,NOR,9,16,3,New Orleans Saints,33,94,151,504,Lost Conference Championship,10.1,0.6,0.813,13,939
+2018,NWE,7,16,5,New England Patriots,28,93,111,436,Won Super Bowl,5.2,-1.8,0.688,11,744
+2018,CLT,9,16,6,Indianapolis Colts,38,120,89,433,Lost Divisional,3.4,-2.2,0.625,10,953
+2018,SEA,4,16,6,Seattle Seahawks,40,111,81,428,Lost WC,4.5,-0.6,0.625,10,959
+2018,SDG,7,16,4,Los Angeles Chargers,25,113,99,428,Lost Divisional,6.0,-0.2,0.75,12,967
+2018,PIT,9,16,6,Pittsburgh Steelers,39,111,68,428,,5.6,1.3,0.594,9,1026
+2018,CHI,10,16,4,Chicago Bears,46,97,138,421,Lost WC,6.3,-2.3,0.75,12,796
+2018,ATL,11,16,9,Atlanta Falcons,30,101,-9,414,,-0.1,0.4,0.438,7,899
+2018,HTX,7,16,5,Houston Texans,37,105,86,402,Lost WC,3.8,-1.5,0.688,11,787
+2018,TAM,9,16,11,Tampa Bay Buccaneers,43,117,-68,396,,-2.6,1.7,0.313,5,975
+2018,RAV,11,16,6,Baltimore Ravens,30,116,102,389,Lost WC,7.0,0.6,0.625,10,940
+2018,GNB,11,16,9,Green Bay Packers,26,108,-24,376,,-2.7,-1.2,0.406,6,937
+2018,CAR,6,16,9,Carolina Panthers,27,92,-6,376,,0.9,1.3,0.438,7,818
+2018,NYG,7,16,11,New York Giants,18,114,-43,369,,-2.2,0.5,0.313,5,951
+2018,CIN,4,16,10,Cincinnati Bengals,30,114,-87,368,,-3.4,2.0,0.375,6,957
+2018,PHI,12,16,7,Philadelphia Eagles,31,100,19,367,Lost Divisional,1.7,0.5,0.563,9,852
+2018,MIN,10,16,7,Minnesota Vikings,26,92,19,360,,0.6,-0.6,0.531,8,779
+2018,CLE,7,16,8,Cleveland Browns,32,112,-33,359,,-0.3,1.7,0.469,7,894
+2018,SFO,12,16,12,San Francisco 49ers,45,112,-93,342,,-5.5,0.3,0.25,4,982
+2018,DAL,9,16,6,Dallas Cowboys,25,104,15,339,Lost Divisional,1.1,0.2,0.625,10,885
+2018,NYJ,11,16,12,New York Jets,17,114,-108,333,,-7.8,-1.1,0.25,4,948
+2018,DEN,6,16,10,Denver Broncos,32,125,-20,329,,-0.5,0.7,0.375,6,985
+2018,DET,7,16,10,Detroit Lions,33,94,-36,324,,-3.0,-0.8,0.375,6,852
+2018,MIA,10,16,9,Miami Dolphins,24,108,-114,319,,-8.8,-1.7,0.438,7,978
+2018,OTI,6,16,7,Tennessee Titans,27,82,7,310,,0.2,-0.2,0.563,9,727
+2018,RAI,14,16,12,Oakland Raiders,17,110,-177,290,,-9.3,1.8,0.25,4,965
+2018,WAS,4,16,9,Washington Redskins,28,115,-78,281,,-4.9,-0.1,0.438,7,1008
+2018,BUF,9,16,10,Buffalo Bills,38,116,-105,269,,-6.9,-0.3,0.375,6,992
+2018,JAX,16,16,11,Jacksonville Jaguars,21,121,-71,245,,-4.0,0.4,0.313,5,1112
+2018,CRD,10,16,13,Arizona Cardinals,26,101,-200,225,,-11.5,1.0,0.188,3,786
+2019,RAV,7,16,2,Baltimore Ravens,27,109,249,531,Lost Divisional,15.6,0.1,0.875,14,867
+2019,SFO,10,16,3,San Francisco 49ers,31,105,169,479,Lost Super Bowl,11.0,0.4,0.813,13,939
+2019,TAM,11,16,9,Tampa Bay Buccaneers,28,133,9,458,,0.4,-0.2,0.438,7,1111
+2019,NOR,2,16,3,New Orleans Saints,20,120,117,458,Lost WC,7.4,0.0,0.813,13,1036
+2019,KAN,10,16,4,Kansas City Chiefs,46,107,143,451,Won Super Bowl,9.1,0.2,0.75,12,1029
+2019,DAL,7,16,8,Dallas Cowboys,30,109,113,434,,5.3,-1.8,0.5,8,1008
+2019,NWE,6,16,4,New England Patriots,31,94,195,420,Lost WC,10.4,-1.8,0.75,12,828
+2019,MIN,12,16,6,Minnesota Vikings,37,96,104,407,Lost Divisional,5.4,-1.1,0.625,10,895
+2019,SEA,14,16,5,Seattle Seahawks,30,109,7,405,Lost Divisional,2.7,2.3,0.688,11,882
+2019,OTI,9,16,7,Tennessee Titans,36,99,71,402,Lost Conference Championship,3.4,-1.0,0.563,9,932
+2019,RAM,7,16,7,Los Angeles Rams,28,118,30,394,,3.9,2.0,0.563,9,899
+2019,PHI,15,16,7,Philadelphia Eagles,35,100,31,385,Lost WC,0.3,-1.7,0.563,9,836
+2019,ATL,10,16,9,Atlanta Falcons,41,119,-18,381,,-0.1,1.1,0.438,7,956
+2019,HTX,8,16,6,Houston Texans,31,111,-7,378,Lost Divisional,0.5,1.0,0.625,10,892
+2019,GNB,9,16,3,Green Bay Packers,40,100,63,376,Lost Conference Championship,3.2,-0.7,0.813,13,774
+2019,CRD,6,16,10,Arizona Cardinals,29,121,-81,361,,-3.2,1.8,0.344,5,956
+2019,CLT,11,16,9,Indianapolis Colts,44,79,-12,361,,-1.8,-1.1,0.438,7,670
+2019,DET,8,16,12,Detroit Lions,35,113,-82,341,,-5.2,-0.1,0.219,3,937
+2019,NYG,16,16,12,New York Giants,35,90,-110,341,,-7.9,-1.0,0.25,4,784
+2019,CAR,14,16,11,Carolina Panthers,23,87,-130,340,,-7.0,1.1,0.313,5,754
+2019,SDG,11,16,11,Los Angeles Chargers,39,103,-8,337,,-1.3,-0.8,0.313,5,872
+2019,CLE,7,16,10,Cleveland Browns,35,122,-58,335,,-1.9,1.7,0.375,6,1106
+2019,BUF,7,16,6,Buffalo Bills,32,117,55,314,Lost WC,2.2,-1.3,0.625,10,927
+2019,RAI,9,16,9,Oakland Raiders,17,128,-106,313,,-6.9,-0.3,0.438,7,1138
+2019,MIA,8,16,11,Miami Dolphins,41,92,-188,306,,-11.6,0.2,0.313,5,769
+2019,JAX,12,16,10,Jacksonville Jaguars,30,132,-97,300,,-6.7,-0.6,0.375,6,1165
+2019,PIT,11,16,8,Pittsburgh Steelers,43,111,-14,289,,0.3,1.2,0.5,8,893
+2019,DEN,6,16,9,Denver Broncos,40,110,-34,282,,-2.1,0.0,0.438,7,912
+2019,CHI,7,16,8,Chicago Bears,34,103,-18,280,,-0.9,0.2,0.5,8,838
+2019,CIN,14,16,14,Cincinnati Bengals,36,93,-141,279,,-7.3,1.5,0.125,2,761
+2019,NYJ,9,16,9,New York Jets,30,115,-83,276,,-6.3,-1.1,0.438,7,1105
+2019,WAS,8,16,13,Washington Redskins,20,106,-169,266,,-10.8,-0.2,0.188,3,835

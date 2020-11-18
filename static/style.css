@@ -1,0 +1,79 @@
+*{margin:0;padding:0}
+body
+{background:#767779}
+#container
+{widows: 1200px;;margin:0 auto;background:white}
+#banner
+{widows: 1200px;;height:145px;background:white}
+#logo
+{width:280px;height:auto;float:left}
+#logo img
+{width:280px;height:auto;margin:10px}
+#headingtext
+{width:680px;height:auto;float:left;text-align:center}
+#headingtext h1
+{margin-top:10px;line-height:65px; 
+    font-family:Colonna MT;}
+span
+{color:red}
+
+/*Menu Bar*/
+#menu
+{widows: 1200px;;height:45px;background:#208f1ca4}
+ul
+{list-style:none;margin:0}
+ul li
+{float: left;margin-left: 20px;}
+ul li a
+{float: left;display:block;line-height:45px;
+    padding-left:20px;padding-right:20px;
+    font-size:20px;color:white;
+    text-decoration:none;}
+ul li a:hover
+{background:#ff6566;height:35px;
+    margin-top:5px;margin-bottom:5px;
+    line-height:35px;border-radius:10px}
+
+/*Menu End*/
+
+
+/*Slide show end */
+/*slide shadow */
+#sdshadow
+{widows: 1200px;;text-align:center}
+#sdshadow img
+{widows: 1200px;;padding:0px 0px}
+/* end slide shadow */
+
+/*Boostrap*/
+.box {
+    height: 400px;
+    padding: 20px;
+    color: #fff;
+    background: deepskyblue;
+  }
+  
+  .margin-top-80 {
+    margin-top: 80px;
+  }
+/*single paragraph */
+.col-md-10 
+{margin-top: 30px;color: rgb(0, 0, 0);}
+/*5 services Paragraph */
+  .col-md-2
+  {background-color: rgb(173, 238, 216);
+  margin-top: 30px;
+
+}
+
+/* Footer, 3 box paragraph */
+.col-md-3
+{margin-top: 30px;
+  
+}
+.col-md-4
+{margin-top: 30px;
+  }
+/*copy right text*/
+  .col-md-12 {color: darkblue;
+  margin-top: 30px;text-align: center;}

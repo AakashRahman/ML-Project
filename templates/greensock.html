@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>   
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script type="text/javascript" src="static/logic.js"></script> 
+<head>
+        
+  <link rel="icon" 
+     type="image/png" 
+     href="http://example.com/myicon.png">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>NFL Helicopter</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>        
+  <link rel="stylesheet" type="text/css" href="static/style.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">  
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+  <!-- Function for radial charts -->
+  <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3-scale-radial.js"></script>    
+</head>
+
+<body>
+    <div id="container">
+        <div id="banner">
+            <div id="logo">
+                <a href=""><img src="static/images/logo.svg"/></a>
+            </div>
+                <div id="headingtext">
+                <h1>NFL Football Stats by <span>Group-4</span></h1>
+                </div>
+        </div>
+        <!-- End Banner -->
+    </div>
+    <!--Menu Start-->
+    <div id="menu">
+        <ul>
+            <li><a href="/">Home</a></li>            
+            <li><a href="/plots">Findings</a></li>
+            <li><a href="/greensock">Animated</a></li>
+            <li><a href="/about">About</a></li>
+            
+        </ul>
+    </div
+    ><!-- End Menu -->
+        
+      <link rel="icon" 
+         type="image/png" 
+         href="http://example.com/myicon.png">
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>NFL Plots</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    
+    <body>
+        <!--here will be display-->
+      <div class="wrapper">
+        <div class="col-md-1">
+        </div>
+            <div class="col-md-3">
+                <img class="logo" src="/static/nfl-svgs/Super_Bowl_logo.svg" alt="No Fun League" style="position: absolute; TOP: 150px; LEFT: -150px; width:350; height:450px;">
+            </div>
+            <div class="background"></div>
+        </div>
+        <div class="col-md-6">
+          <div class="well">
+            <h5>Offensive Stats 2019</h5>
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="col-md-2">
+        </div>
+
+        <div id="my_dataviz" class="col-md-12"></div>
+
+    </body>
+    
+    <!-- green sock, drop top --> 
+    <script>TweenMax.from('.logo', 1, {scale:0})</script>
+    <script>gsap.fromTo("#my_dataviz", 
+      {rotation: 0},
+      {rotation: 360,
+       transformOrigin: "0% 50%",
+       repeat: 5,
+       ease: "none"
+      });</script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+      <script src="https://d3js.org/d3.v5.min.js"></script>
+      <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+      <!-- <script src="app.js"></script> -->
+      <script type="text/javascript"> 
+        var off = "{{off_db | safe}}"
+        var def = "{{def_db | safe}}"
+        var misc = "{{misc_db | safe}}"
+         </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>           
+    <script type="text/javascript" src="static/app.js"></script>  
+    <script src="math.js"></script>
+    </body>
+    
+    </html>
