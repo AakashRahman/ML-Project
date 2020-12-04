@@ -1,4 +1,5 @@
 #Machine Learning Project
+
 Sports is rife with statistics. Girlfriends, boyfriends, housewives, and husbands have marveled at their significant others ability to recall the most minute mathematical oddities about players. In a vacuum these statistical numbers are curiosities, perhaps useful at analyzing the uniqueness of a player or the playstyle of a team, but they do not allow us to uncover anything deep about the sport. American football is one of the most statistically deep sports in the world. Nearly every action a player can take, from throwing a pass to committing a penalty is measured and recorded for posterity. Our analysis seeks to utilize a robust dataset of National Football League (NFL) teams from 2002 through 2019 to accomplish two things.
 
 • Determine which summary statistics are most important at predicting success (determined as wins in this analysis)
